@@ -6,8 +6,6 @@
 
 [![msevon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msevon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Languages and Tools</h3>
-
 <p align="center">
 
   <!-- Python -->

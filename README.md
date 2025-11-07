@@ -49,8 +49,8 @@
   </a>
 
   <!-- C64 -->
-  <a href="https://www.pngegg.com/en/png-tymgs" target="_blank" rel="noreferrer">
-    <img src="https://www.pngegg.com/en/png-tymgs" alt="c64basic" width="40" height="40"/>
+  <a href="https://en.wikipedia.org/wiki/Commodore_64" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Commodore_64_logo_2-02.svg" alt="commodore64" width="90"/>
   </a>
 
 </p>

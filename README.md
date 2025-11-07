@@ -50,7 +50,7 @@
 
   <!-- C64 -->
   <a href="https://en.wikipedia.org/wiki/Commodore_64" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Commodore_64_logo_2-02.svg" alt="commodore64" width="90"/>
+    <img src="https://commons.wikimedia.org/wiki/File:Commodore_64_logo_2-02.svg" alt="commodore64" width="90"/>
   </a>
 
 </p>

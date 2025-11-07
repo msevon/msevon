@@ -50,7 +50,7 @@
 
   <!-- C64 -->
   <a href="https://www.pngegg.com/en/png-tymgs" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Commodore_logo.svg" alt="c64basic" width="40" height="40"/>
+    <img src="https://www.pngegg.com/en/png-tymgs" alt="c64basic" width="40" height="40"/>
   </a>
 
 </p>

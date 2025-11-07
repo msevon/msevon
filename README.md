@@ -48,8 +48,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
 
-  <!-- C64 BASIC -->
-  <a href="https://en.wikipedia.org/wiki/Commodore_64" target="_blank" rel="noreferrer">
+  <!-- C64 -->
+  <a href="https://www.pngegg.com/en/png-tymgs" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Commodore_logo.svg" alt="c64basic" width="40" height="40"/>
   </a>
 

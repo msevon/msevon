@@ -2,9 +2,9 @@
 
 # You can always win but you can never lose.
 
-[![msevon's GitHub stats](https://github-readme-stats.vercel.app/api?username=msevon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![msevon's GitHub stats](https://github-readme-stats.vercel.app/api?username=msevon&show_icons=true&theme=dark&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
-[![msevon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msevon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msevon&layout=compact&theme=dark&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>

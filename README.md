@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>You can always win but you can never lose.</h1>
+<h1>You can always win but you can never lose</h1>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>

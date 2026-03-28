@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>You can always win but you can never lose.</h1>
+<h1>You can always win but you can never lose</h1>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=msevon&show_icons=true&theme=dark&cache_seconds=3600" />
